@@ -1,0 +1,15 @@
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/bin/Debug/net6.0/Task acmp1138
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/bin/Debug/net6.0/Task acmp1138.deps.json
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/bin/Debug/net6.0/Task acmp1138.runtimeconfig.json
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/bin/Debug/net6.0/Task acmp1138.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/bin/Debug/net6.0/Task acmp1138.pdb
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/obj/Debug/net6.0/Task acmp1138.csproj.AssemblyReference.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/obj/Debug/net6.0/Task acmp1138.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/obj/Debug/net6.0/Task acmp1138.AssemblyInfoInputs.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/obj/Debug/net6.0/Task acmp1138.AssemblyInfo.cs
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/obj/Debug/net6.0/Task acmp1138.csproj.CoreCompileInputs.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/obj/Debug/net6.0/Task acmp1138.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/obj/Debug/net6.0/refint/Task acmp1138.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/obj/Debug/net6.0/Task acmp1138.pdb
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/obj/Debug/net6.0/Task acmp1138.genruntimeconfig.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task acmp1138/obj/Debug/net6.0/ref/Task acmp1138.dll
