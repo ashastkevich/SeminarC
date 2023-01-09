@@ -1,0 +1,15 @@
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/bin/Debug/net6.0/Task 29
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/bin/Debug/net6.0/Task 29.deps.json
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/bin/Debug/net6.0/Task 29.runtimeconfig.json
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/bin/Debug/net6.0/Task 29.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/bin/Debug/net6.0/Task 29.pdb
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/obj/Debug/net6.0/Task 29.csproj.AssemblyReference.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/obj/Debug/net6.0/Task 29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/obj/Debug/net6.0/Task 29.AssemblyInfoInputs.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/obj/Debug/net6.0/Task 29.AssemblyInfo.cs
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/obj/Debug/net6.0/Task 29.csproj.CoreCompileInputs.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/obj/Debug/net6.0/Task 29.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/obj/Debug/net6.0/refint/Task 29.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/obj/Debug/net6.0/Task 29.pdb
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/obj/Debug/net6.0/Task 29.genruntimeconfig.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 29/obj/Debug/net6.0/ref/Task 29.dll
