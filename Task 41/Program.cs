@@ -1,7 +1,6 @@
 ﻿Console.Clear();
 Console.Write("Введите количество чисел: ");
 int M = int.Parse(Console.ReadLine());
-int Number = 0;
 int count = 0;
 for (int i = 0; i < M; i++)
 {
