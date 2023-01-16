@@ -1,0 +1,15 @@
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/bin/Debug/net6.0/Task 54
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/bin/Debug/net6.0/Task 54.deps.json
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/bin/Debug/net6.0/Task 54.runtimeconfig.json
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/bin/Debug/net6.0/Task 54.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/bin/Debug/net6.0/Task 54.pdb
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/obj/Debug/net6.0/Task 54.csproj.AssemblyReference.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/obj/Debug/net6.0/Task 54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/obj/Debug/net6.0/Task 54.AssemblyInfoInputs.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/obj/Debug/net6.0/Task 54.AssemblyInfo.cs
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/obj/Debug/net6.0/Task 54.csproj.CoreCompileInputs.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/obj/Debug/net6.0/Task 54.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/obj/Debug/net6.0/refint/Task 54.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/obj/Debug/net6.0/Task 54.pdb
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/obj/Debug/net6.0/Task 54.genruntimeconfig.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 54/obj/Debug/net6.0/ref/Task 54.dll
