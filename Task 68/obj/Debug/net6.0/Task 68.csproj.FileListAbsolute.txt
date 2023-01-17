@@ -1,0 +1,15 @@
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/bin/Debug/net6.0/Task 68
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/bin/Debug/net6.0/Task 68.deps.json
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/bin/Debug/net6.0/Task 68.runtimeconfig.json
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/bin/Debug/net6.0/Task 68.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/bin/Debug/net6.0/Task 68.pdb
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/obj/Debug/net6.0/Task 68.csproj.AssemblyReference.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/obj/Debug/net6.0/Task 68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/obj/Debug/net6.0/Task 68.AssemblyInfoInputs.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/obj/Debug/net6.0/Task 68.AssemblyInfo.cs
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/obj/Debug/net6.0/Task 68.csproj.CoreCompileInputs.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/obj/Debug/net6.0/Task 68.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/obj/Debug/net6.0/refint/Task 68.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/obj/Debug/net6.0/Task 68.pdb
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/obj/Debug/net6.0/Task 68.genruntimeconfig.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/SeminarC/Task 68/obj/Debug/net6.0/ref/Task 68.dll
